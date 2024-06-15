@@ -1,0 +1,51 @@
+*{
+     margin: 0%;
+     padding: 0%;
+}
+ table,td,tr,th{
+     border: 1px solid black;
+     
+}
+table{
+    width: 900px;
+    text-align: center;
+    margin-top: 50px;
+}
+.heading{
+     text-align: center;
+     background-color: yellow;
+     font-size: 55px;
+}
+.bg-orange{
+     background-color: orange;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-pink{
+    background-color: lightpink;
+}
+.bg-blue{
+    background-color: lightskyblue;
+}
+.bg-brown{
+    background-color: lightcoral;
+}
+.bg-perpal{
+    background-color: lightsteelblue;
+}
+.bg-green{
+     background-color: lightgreen;
+}
+.bg-bis{
+    background-color: bisque;
+}
+.border-none{
+     border: none;
+}
+.text-red{
+     color:red;
+}
+.table2{
+     margin-left:80px;
+}
